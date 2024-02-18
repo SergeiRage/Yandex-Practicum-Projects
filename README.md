@@ -4,20 +4,22 @@
 
 ### Содержание: / Content:
 
-  - [Основы Python](Music%20jenres)
+  - [Основы Python]()
   - [Предобработка данных / Data Processing](Reliability)
   - [Исследовательский анализ данных / Exploratory data analysis](Realty)
   - [Сборный проект / Common project](Movies)
   - [Статистический анализ данных / Statistical analysis of data](Scooters)
   - [Введение в машинное обучение / Introduction to machine learning](Mobile)
   - [Обучение с учителем / Supervised learning](Bank%20clients)
-  - [Машинное обучение в бизнесе / Machine learning in business](Выбор%20локации%20для%20скважины)
-  - [Сборный проект / Common project](Модель%20для%20прогнозирования%20коэффициента%20восстановления%20золота%20для%20золотодобывающей%20компании)
+  - [Машинное обучение в бизнесе / Machine learning in business](Oil%20location)
+  - [Сборный проект / Common project](Hotel%20clients)
+  - [Основы SQL](SQL1)
+  - [Мастерская1 / Workshop1](Music%20jenres)
+  - [Система обработки больших данных / big data processing systems](Cost%20realty)
   - [Линейная алгебра / Linear algebra](Метод%20преобразования%20данных%20для%20защиты%20персональной%20информации%20клиентов)
   - [Численные методы (градиентный бустинг) / Numerical analysis (gradient boosting)](Модель%20для%20определения%20стоимости%20автомобилей%20по%20их%20техническим%20характеристикам)
   - [Временные ряды / Time series](Модель%20для%20прогнозирования%20количества%20заказов%20такси)
   - [Машинное обучение для текстов / Machine learning for texts](Машинное%20обучение%20для%20текстов%20-%20модель%20для%20классификации%20комментариев)
-  - [Основы SQL](Основы%20SQL)
   - [**Выпускной проект / Final project**](Дипломный%20проект)
 
 ## Проекты
