@@ -5,7 +5,7 @@
 ### Содержание: / Content:
 
   - [Основы Python](Music%jenres)
-  - [Предобработка данных / Data Processing](https://github.com/SergeiRage/Portfolio/tree/2ae98bf52d647872cf3a0d1a25ad743ae59a2278/Reliability)
+  - [Предобработка данных / Data Processing](Reliability)
   - [Исследовательский анализ данных / Exploratory data analysis](Realty)
   - [Статистический анализ данных / Statistical analysis of data](Определение%20перспективного%20тарифа%20для%20телеком-компании)
   - [Сборный проект / Common project](Исследование%20продаж%20компьютерных%20игр)
