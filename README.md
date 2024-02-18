@@ -5,7 +5,7 @@
 ### Содержание: / Content:
 
   - [Основы Python]((https://github.com/SergeiRage/Portfolio/tree/main/Music%20jenres))
-  - [Предобработка данных / Data Processing](Исследование%20надежности%20заемщиков)
+  - [Предобработка данных / Data Processing]([Исследование%20надежности%20заемщиков](https://github.com/SergeiRage/Portfolio/tree/main/Music%20jenres))
   - [Исследовательский анализ данных / Exploratory data analysis](Исследование%20объявлений%20о%20продаже%20квартир)
   - [Статистический анализ данных / Statistical analysis of data](Определение%20перспективного%20тарифа%20для%20телеком-компании)
   - [Сборный проект / Common project](Исследование%20продаж%20компьютерных%20игр)
