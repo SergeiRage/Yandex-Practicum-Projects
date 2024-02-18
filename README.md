@@ -4,7 +4,7 @@
 
 ### Содержание: / Content:
 
-  - [Основы Python](Music%jenres)
+  - [Основы Python](Music%20jenres)
   - [Предобработка данных / Data Processing](Reliability)
   - [Исследовательский анализ данных / Exploratory data analysis](Realty)
   - [Статистический анализ данных / Statistical analysis of data](Определение%20перспективного%20тарифа%20для%20телеком-компании)
