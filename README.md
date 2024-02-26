@@ -15,13 +15,15 @@
   - [Сборный проект / Common project](Hotel%20clients)
   - [Основы SQL / SQL ](SQL1)
   - [Мастерская1 / Workshop1](Music%20jenres)
-  - [Система обработки больших данных / big data processing systems](Cost%20realty)
+  - [Система обработки больших данных / Big data processing systems](Cost%20realty)
+  - [Линейная алгебра / Linear Algebra](Data%20Protection)
 
 
 ## Проекты
 
 |№| Название | Общая информация | Стек технологий |
 |:---|:-------------------|:----------------------------------------------------------|:-----------:|
+|13  |[Линейная алгебра / Linear Algebra](Data%20Protection)|Необходимо разработать метод преобразования данных, согласно которому будет сложно восстановить персональную информацию. Обосновать корректность его работы.|`pandas` `numpy`  `matplotlib` `seaborn` `sklearn`|
 |12  |[Система обработки больших данных / big data processing systems](Cost%20realty)|Необходимо обучить модели линейной регрессии на данных о жилье в Калифорнии в 1990 году для предсказания медианной стоимости дома.|`pandas` `numpy` `plotly` `matplotlib` `seaborn` `sklearn` `catboost`|
 |11  |[Мастерская1 / Workshop1](Music%20jenres)|Необходимо разработать модель, позволяющую классифицировать музыкальные произведения по жанрам.|`pandas` `numpy`  `spark` `seaborn` `sklearn` `catboost` |
 |10  |[Основы SQL / SQL](SQL1)|Решение задач на SQL.|`SQL`|
