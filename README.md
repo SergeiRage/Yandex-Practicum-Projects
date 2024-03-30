@@ -2,32 +2,14 @@
 
 Портфолио выполненных проектов на программе обучения по профессии "Специалист по Data Science"
 
-### Содержание: / Content:
-
-  - [Основы Python](Music%20cities)
-  - [Предобработка данных / Data Processing](Reliability)
-  - [Исследовательский анализ данных / Exploratory data analysis](Realty)
-  - [Сборный проект / Common project](Movies)
-  - [Статистический анализ данных / Statistical analysis of data](Scooters)
-  - [Введение в машинное обучение / Introduction to machine learning](Mobile)
-  - [Обучение с учителем / Supervised learning](Bank%20clients)
-  - [Машинное обучение в бизнесе / Machine learning in business](Oil%20location)
-  - [Сборный проект / Common project](Hotel%20clients)
-  - [Основы SQL / SQL ](SQL1)
-  - [Мастерская1 / Workshop1](Music%20jenres)
-  - [Система обработки больших данных / Big data processing systems](Cost%20realty)
-  - [Линейная алгебра / Linear Algebra](Data%20Protection)
-  - [Численные методы (градиентный бустинг) / Numerical analysis (gradient boosting](Car%20cost)
-
 
 ## Проекты
 
 |№| Название | Общая информация | Стек технологий |
 |:---|:-------------------|:----------------------------------------------------------|:-----------:|
-|14  |[Численные методы (градиентный бустинг) / Numerical analysis (gradient boosting](Car%20cost)|Необходимо построить модель для определения стоимости автомобиля, с учетом ограничений обозначенных заказчиком.|`pandas` `numpy`  `matplotlib` `seaborn` `sklearn` `lightgbm` `catboost`|
-|13  |[Линейная алгебра / Linear Algebra](Data%20Protection)|Необходимо разработать метод преобразования данных, согласно которому будет сложно восстановить персональную информацию. Обосновать корректность его работы.|`pandas` `numpy`  `matplotlib` `seaborn` `sklearn`|
-|12  |[Система обработки больших данных / big data processing systems](Cost%20realty)|Необходимо обучить модели линейной регрессии на данных о жилье в Калифорнии в 1990 году для предсказания медианной стоимости дома.|`pandas` `numpy` `plotly` `matplotlib` `seaborn` `sklearn` `catboost`|
-|11  |[Мастерская1 / Workshop1](Music%20jenres)|Необходимо разработать модель, позволяющую классифицировать музыкальные произведения по жанрам.|`pandas` `numpy`  `spark` `seaborn` `sklearn` `catboost` |
+|13  |[Численные методы (градиентный бустинг) / Numerical analysis (gradient boosting](Car%20cost)|Необходимо построить модель для определения стоимости автомобиля, с учетом ограничений обозначенных заказчиком.|`pandas` `numpy`  `matplotlib` `seaborn` `sklearn` `lightgbm` `catboost`|
+|12  |[Линейная алгебра / Linear Algebra](Data%20Protection)|Необходимо разработать метод преобразования данных, согласно которому будет сложно восстановить персональную информацию. Обосновать корректность его работы.|`pandas` `numpy`  `matplotlib` `seaborn` `sklearn`|
+|11  |[Система обработки больших данных / big data processing systems](Cost%20realty)|Необходимо обучить модели линейной регрессии на данных о жилье в Калифорнии в 1990 году для предсказания медианной стоимости дома.|`pandas` `numpy` `plotly` `matplotlib` `seaborn` `sklearn` `catboost`|
 |10  |[Основы SQL / SQL](SQL1)|Решение задач на SQL.|`SQL`|
 |9   |[Сборный проект / Common project](Hotel%20clients)|Нужно построить модель, которая предскажет откажется ли клиент от брони отеля.|`pandas` `plotly` `LightGBM` `catboost` `sklearn` `matplotlib` `seaborn` `numpy`|
 |8   |[Машинное обучение в бизнесе / Machine learning in business](Oil%20location)|Нефтяной компании нужно решить, где бурить новыу скважины. Для этого необходимо построить модель для определения региона, где добыча принесёт наибольшую прибыль.|`sklearn` `seaborn` `matplotlib` `pandas` `numpy`|
