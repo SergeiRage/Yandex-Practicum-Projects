@@ -20,7 +20,7 @@
 |11  |[Система обработки больших данных / big data processing systems](11-Cost%20realty)|Обучил модель линейной регрессии на данных о жилье в Калифорнии в 1990 году для предсказания медианной стоимости дома.|`pandas` `numpy` `plotly` `matplotlib` `seaborn` `sklearn` `catboost`|
 |12  |[Линейная алгебра / Linear Algebra](12-Data%20Protection)|Разработал метод преобразования данных, согласно которому будет сложно восстановить персональную информацию. Обосновал корректность его работы.|`pandas` `numpy`  `matplotlib` `seaborn` `sklearn`|
 |13  |[Численные методы (градиентный бустинг) / Numerical analysis (gradient boosting](13-Car%20cost)|Построил модель для определения стоимости автомобиля, с учетом ограничений обозначенных заказчиком.|`pandas` `numpy`  `matplotlib` `seaborn` `sklearn` `lightgbm` `catboost`|
-|14  ||[Нейронные сети / Neural nets](14-Star%20temperature)|Построил нейронную сеть помогающую определять температуру на поверхности обнаруженных звёзд.|`pandas` `numpy`  `matplotlib`  `sklearn` `pytorch`|
+|14  |[Нейронные сети / Neural nets](14-Star%20temperature)|Построил нейронную сеть помогающую определять температуру на поверхности обнаруженных звёзд.|`pandas` `numpy`  `matplotlib`  `sklearn` `pytorch`|
 
 
 
