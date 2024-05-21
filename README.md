@@ -21,7 +21,7 @@
 |12  |[Линейная алгебра / Linear Algebra](12-Data%20Protection)|Разработал метод преобразования данных, согласно которому будет сложно восстановить персональную информацию. Обосновал корректность его работы.|`pandas` `numpy`  `matplotlib` `seaborn` `sklearn`|
 |13  |[Численные методы (градиентный бустинг) / Numerical analysis (gradient boosting](13-Car%20cost)|Построил модель для определения стоимости автомобиля, с учетом ограничений обозначенных заказчиком.|`pandas` `numpy`  `matplotlib` `seaborn` `sklearn` `lightgbm` `catboost`|
 |14  |[Нейронные сети / Neural nets](14-Star%20temperature)|Построил нейронную сеть помогающую определять температуру на поверхности обнаруженных звёзд.|`pandas` `numpy`  `matplotlib`  `sklearn` `pytorch`|
-|15  |[Оценка риска ДТП / Cars accident](115-Car%20accident)| Разработал систему для каршеринговой компании, которая могла бы оценить риск ДТП по совокупности факторов.|`pandas` `numpy`  `matplotlib`  `sklearn` `lightgbm` `snap`|
+|15  |[Оценка риска ДТП / Cars accident](15-Car%20accident)| Разработал систему для каршеринговой компании, которая могла бы оценить риск ДТП по совокупности факторов.|`pandas` `numpy`  `matplotlib`  `sklearn` `lightgbm` `snap`|
 
 
 
