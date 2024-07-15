@@ -24,7 +24,7 @@
 |15  |[Оценка риска ДТП / Cars accident](15-Car%20accident)| Разработал систему для каршеринговой компании, которая могла бы оценить риск ДТП по совокупности факторов.|`pandas` `numpy`  `matplotlib`  `sklearn` `lightgbm` `snap`|
 |16  |[Прогнозирование заказов такси / Taxi prediction](16-Taxi%20prediction)| Создал модель, способную с высокой точностью предсказывать количество заказов такси на следующий час.|`pandas` `numpy`  `matplotlib`  `sklearn` `lightgbm` `catboost`|
 |17  |[Классификация текстов / Text classification](17-Text%20classification)| Разработал модель бинарной классификации для выявления негативных комментариев.|`pandas` `numpy`  `nltk`  `matplotlib` `lightgbm` `catboost`|
-
+|18  |[Предсказание возраста клиентов / Age recognition](18-Age%20recognition)| Разработал модель, которая по фотографии определяет приблизительный возраст человека.|`pandas` `numpy`  `tensorflow`  `matplotlib` `keras`|
 
 
 
